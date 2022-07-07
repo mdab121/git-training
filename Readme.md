@@ -21,3 +21,13 @@ W tym repozytorium będziemy się szkolić z `git`a!
 - Merge
 - Rebase
 - Merge / Pull Request
+
+## Oczekiwania
+
+- Rozwiązywanie konfliktów
+- Zarządzanie branchami
+- git-flow
+- Zaleznośc między branchami
+- `stash` - na co to komu
+- Rebase vs Merge i dlaczego rebase ;)
+- `git reset --hard` vs `git reset --soft`

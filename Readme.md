@@ -27,7 +27,7 @@ W tym repozytorium będziemy się szkolić z `git`a!
 - Rozwiązywanie konfliktów
 - Zarządzanie branchami
 - git-flow
-- Zaleznośc między branchami
+- Zależność między branchami
 - `stash` - na co to komu
 - Rebase vs Merge i dlaczego rebase ;)
 - `git reset --hard` vs `git reset --soft`

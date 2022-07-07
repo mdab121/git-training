@@ -8,5 +8,5 @@ def print_multiple_times(text: str):
     print(text)
 
 def main():
-    print_multiple_times(f"Hello there {squared(10)} !!!")
+    print_multiple_times(f"Hello there {squared(11)} !!!")
     print("Hello world from Daftcode!")

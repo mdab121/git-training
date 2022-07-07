@@ -6,6 +6,8 @@ Cześć!
 
 W tym repozytorium będziemy się szkolić z `git`a!
 
+> Dzisiaj jest 07.07.2022 i szkolenie odbywa się o 14:00
+
 ## Agenda
 
 - Czym jest git i do czego służy?
